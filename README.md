@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+# Fetch() ile API'dan veri alma örneği
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
